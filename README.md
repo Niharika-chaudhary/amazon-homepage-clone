@@ -22,3 +22,7 @@ A simple recreation of Amazon's homepage built using HTML and CSS as part of my 
 ## Disclaimer
 
 This is a practice project inspired by Amazon's website and is not affiliated with or endorsed by Amazon.
+
+## Screenshot
+
+![Amazon Homepage](amazon-homepage.PNG)
